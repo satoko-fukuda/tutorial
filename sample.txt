@@ -1,3 +1,7 @@
 sample text
 Sample Text
 SAMPLE TEXT
+
+sample text
+Sample Text
+SAMPLE TEXT
